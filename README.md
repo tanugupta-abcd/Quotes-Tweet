@@ -1,4 +1,2 @@
 # Quotes-Tweet
-
-
-hello it is my first github 
+this web page give new quotes on every click and tweet it directly
